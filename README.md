@@ -159,6 +159,10 @@ python manage.py test
    python manage.py migrate
    ```
 
+
+# (Cashing Activity)[https://github.com/ALU-BSE/alu-bse-adpy-2025s-caching-gla-safeboda/blob/main/caching-gla.md]
+
+
 ## Contributing
 
 1. Fork the repository
